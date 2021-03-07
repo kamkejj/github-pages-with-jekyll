@@ -1,6 +1,6 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "Post 1"
+date: 2021-03-10
 ---
 
 Bacon ipsum dolor amet hamburger drumstick doner leberkas, burgdoggen spare ribs frankfurter salami shank kielbasa. Landjaeger chicken jerky kevin. Frankfurter landjaeger boudin andouille. Ham hock pig hamburger pork swine. Beef ham hock cow andouille pork chop venison flank.
